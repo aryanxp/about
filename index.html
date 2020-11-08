@@ -11,7 +11,7 @@
         <div class='container mt-5'>
             <div class='row'>
                 <div class="col text-center">
-                    <button class="btn btn-primary">HERE</button>
+                    <button class="btn btn-primary" id="clrbtn" onclick="clrchng()">HERE</button>
                 </div>
             </div>
             <div class="row mt-4">
@@ -37,6 +37,24 @@
                     if(parE.childNodes.length!=0){
                         parE.removeChild(parE.childNodes[0]);
                     }
+                }
+                var togglestate=0;
+                function clrchng() {
+                    var mybtn = document.getElementById('clrbtn');
+                    if (togglestate==0){
+                        mybtn.innerHTML='there';
+                        mybtn.classList.remove('btn-primary');
+                        mybtn.classList.add('btn-danger');
+                        togglestate=1;
+                    }
+                    else{
+                        mybtn.innerHTML='here';
+                        mybtn.classList.remove('btn-danger');
+                        mybtn.classList.add('btn-primary');
+                        togglestate=0;
+                    }
+                    
+                    
                 }
             </script>
         </div>

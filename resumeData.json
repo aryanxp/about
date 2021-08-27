@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Aryan Pitliya",
+    "occupation": "Developer",
+    "description": "I like to code/develop/create/innovate",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Aryan! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "You can contact me using this form:",
+    "email": "aryanp@pm.me",
+    "phone": "+91 9770888595",
+    "address": {
+      "street": "Pune | Indore",
+      "city": "India",
+      "state": "",
+      "zip": "452018"
+    },
+    "website": "https://aryanxp.github.io/",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/aryanxp",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aryanxp",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/9617417/aryan",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/aryanxpx/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/aryanxp/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "Spoptify",
+        "url": "https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7",
+        "className": "fa fa-music"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "SIT - Symbiosis Institute of Technology",
+        "degree": "Pune",
+        "graduated": "2018-2022",
+        "description": "Bachelor's Degree, Computer Science"
+      }
+    ],
+    "work": [
+      {
+        "company": "MRDb",
+        "title": "Founder",
+        "years": "May 2021 - Present",
+        "description": "Website which provides the latest/trending/category-wise/upcoming movies/shows all at one place which are available on the internet."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "65%"
+      },
+      {
+        "name": "SQL",
+        "level": "65%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID Tracker",
+        "category": "",
+        "image": "covid.png",
+        "url": "https://youtu.be/1kGISk5ft2w"
+      },
+      {
+        "title": "Stock Price Prediction",
+        "category": "",
+        "image": "spp.png",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      },
+      {
+        "title": "MRDb",
+        "category": "",
+        "image": "mrdb.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Chathouse v2.0",
+        "category": "",
+        "image": "chathouse.png ",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "Split-Money",
+        "category": "",
+        "image": "splitmoney.png ",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      }
+    ]
+  },
+  "quotes": {
+    "quotes": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}

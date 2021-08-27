@@ -1,13 +1,13 @@
 import React from "react";
 
-const Testimonials = ({ data }) => {
+const Quotes = ({ data }) => {
   if (data) {
-    var testimonials = data.testimonials.map(function (testimonials) {
+    var quotes = data.quotes.map(function (quotes) {
       return (
-        <li key={testimonials.user}>
+        <li key={quotes.user}>
           <blockquote>
-            <p>{testimonials.text}</p>
-            <cite>{testimonials.user}</cite>
+            <p>{quotes.text}</p>
+            <cite>{quotes.user}</cite>
           </blockquote>
         </li>
       );
@@ -15,17 +15,17 @@ const Testimonials = ({ data }) => {
   }
 
   return (
-    <section id="testimonials">
+    <section id="quotes">
       <div className="text-container">
         <div className="row">
           <div className="two columns header-col">
             <h1>
-              <span>Client Testimonials</span>
+              <span>Quotes That inspire me</span>
             </h1>
           </div>
 
           <div className="ten columns flex-container">
-            <ul className="slides">{testimonials}</ul>
+            <ul className="slides">{quotes}</ul>
           </div>
         </div>
       </div>
@@ -33,4 +33,4 @@ const Testimonials = ({ data }) => {
   );
 };
 
-export default Testimonials;
+export default Quotes;

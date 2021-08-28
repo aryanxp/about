@@ -4,7 +4,7 @@
     "occupation": "Developer",
     "description": "I like to code/develop/create/innovate",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Aryan! Wrote my first program when I was 13 (a shutdown virus) and since then I've been learning and creating. Then I started pentesting (before watching Mr.Robot :) and also did hack into the main computer of my school and into my college website (I am not a certified hacker though but they don't have proof too so :). During college I made various interesting projects (like Stock Price Prediction, Face mask detection, etc.). Simultaneously, I created native projects using React & React-Native (like MRDb:fav & ongoing,COVID tracker,Chathouse v2,etc.) Now I'm learning about Blockchain and soon going to make project on it. I code/hack for a purpose and fun.",
+    "bio": "Hi there! I am Aryan! Wrote my first program when I was 13 (a shutdown virus) and since then I've been hacking and creating. I then started learning pentesting (before watching Mr. Robot :) and also did hack into the main computer of my school and into my college website (I am not a certified hacker though, but they have no proof of that so..:). During college, I made various interesting projects (like Stock Price Prediction, Face mask detection, etc.). Simultaneously worked on native projects using React & React-Native (like MRDb - fav & ongoing,COVID tracker,Chathouse v2,etc.) Now I'm learning about Block-chain and soon going to do a project on it. I code/hack for a purpose and fun.",
     "contactmessage": "You can contact me using this form:",
     "email": "aryanp@pm.me",
     "phone": "+91 9770888595",
@@ -71,6 +71,12 @@
         "title": "Founder",
         "years": "May 2021 - Present",
         "description": "Website which provides the latest/trending/category-wise/upcoming movies/shows all at one place which are available on the internet."
+      },
+      {
+        "company": "ChatHouse",
+        "title": "Founder",
+        "years": "2018 ",
+        "description": "Python application which lets you communicate to people connected on a common network (works offline)."
       }
     ],
     "skills": [
@@ -79,19 +85,19 @@
         "level": "85%"
       },
       {
-        "name": "ReactJs",
+        "name": "JavaScript | ReactJs | Nextjs",
         "level": "75%"
       },
       {
-        "name": "Machine Learning",
+        "name": "Machine Learning | Deep Learning",
         "level": "65%"
       },
       {
-        "name": "SQL",
+        "name": "SQL | AWS | MongoDB",
         "level": "65%"
       },
       {
-        "name": "Ethical Hacking",
+        "name": "Ethical Hacking | Linux | MacOS",
         "level": "70%"
       },
       {
@@ -99,8 +105,8 @@
         "level": "70%"
       },
       {
-        "name": "CSS",
-        "level": "70%"
+        "name": "CSS | Tailwind | Sass",
+        "level": "60%"
       }
     ]
   },

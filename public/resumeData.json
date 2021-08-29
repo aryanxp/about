@@ -28,6 +28,11 @@
         "className": "fab fa-linkedin"
       },
       {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/9617417/aryan",
+        "className": "fab fa-stack-overflow"
+      },
+      {
         "name": "Telegram",
         "url": "https://t.me/aryanxpx/",
         "className": "fab fa-telegram-plane"
@@ -36,11 +41,6 @@
         "name": "Discord",
         "url": "https://discord.gg/5bahqbzv",
         "className": "fab fa-discord"
-      },
-      {
-        "name": "stack-overflow",
-        "url": "https://stackoverflow.com/users/9617417/aryan",
-        "className": "fab fa-stack-overflow"
       },
       {
         "name": "instagram",

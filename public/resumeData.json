@@ -7,7 +7,7 @@
     "bio": "Hi there! I am Aryan! Wrote my first program when I was 13 (a shutdown virus) and since then I've been hacking and creating. I then started learning pentesting (before watching Mr. Robot :) and also did hack into the main computer of my school and into my college website (I am not a certified hacker though, but they have no proof of that so..:). During college, I made various interesting projects (like Stock Price Prediction, Face mask detection, etc.). Simultaneously worked on native projects using React & React-Native (like MRDb - fav & ongoing,COVID tracker,Chathouse v2,etc.) Now I'm learning about Block-chain and soon going to do a project on it. I code/hack for a purpose and fun.",
     "contactmessage": "You can contact me using this form:",
     "email": "aryanp@pm.me",
-    "phone": "+91 9770888595",
+    "phone": "https://t.me/aryanxpx",
     "address": {
       "street": "Pune | Indore",
       "city": "India",
@@ -20,32 +20,42 @@
       {
         "name": "github",
         "url": "https://github.com/aryanxp",
-        "className": "fa fa-github"
+        "className": "fab fa-github"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/aryanxp",
-        "className": "fa fa-linkedin"
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/aryanxpx/",
+        "className": "fab fa-telegram-plane"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/5bahqbzv",
+        "className": "fab fa-discord"
       },
       {
         "name": "stack-overflow",
         "url": "https://stackoverflow.com/users/9617417/aryan",
-        "className": "fa fa-stack-overflow"
+        "className": "fab fa-stack-overflow"
       },
       {
         "name": "instagram",
         "url": "https://www.instagram.com/aryanxpx/",
-        "className": "fa fa-instagram"
+        "className": "fab fa-instagram"
       },
       {
         "name": "twitter",
         "url": "https://twitter.com/aryanxp/",
-        "className": "fa fa-twitter"
+        "className": "fab fa-twitter"
       },
       {
         "name": "Spoptify",
         "url": "https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7",
-        "className": "fa fa-music"
+        "className": "fab fa-spotify"
       }
     ]
   },
@@ -82,31 +92,31 @@
     "skills": [
       {
         "name": "Python",
-        "level": "85%"
+        "level": "80%"
       },
       {
         "name": "JavaScript | ReactJs | Nextjs",
-        "level": "75%"
+        "level": "65%"
       },
       {
         "name": "Machine Learning | Deep Learning",
-        "level": "65%"
+        "level": "60%"
       },
       {
         "name": "SQL | AWS | MongoDB",
-        "level": "65%"
+        "level": "50%"
       },
       {
-        "name": "Ethical Hacking | Linux | MacOS",
+        "name": "Ethical Hacking | Linux | MacOS | Batch | Bash | Zsh",
         "level": "70%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "65%"
       },
       {
-        "name": "CSS | Tailwind | Sass",
-        "level": "60%"
+        "name": "CSS | Tailwind | Sass | HTML | PHP",
+        "level": "80%"
       }
     ]
   },

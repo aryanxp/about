@@ -1,4 +1,11 @@
 This is a Brave Rewards publisher verification file.
 
+Domain: aryanxp.me
+Token: f998178106c8e92f4a2e349bc167f0c23a89be495260dfc7e88d13113faf2454
+
+
+This is a Brave Rewards publisher verification file.
+
 Domain: aryanxp.github.io
 Token: b41be4b92ce6d4c7742fdb70240f10db734284baa3068c1854bcb903c1232a2b
+

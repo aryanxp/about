@@ -3,7 +3,7 @@
     "name": "Aryan Pitliya",
     "occupation": "Developer",
     "description": "I like to code/develop/create/innovate",
-    "image": "profilepic.jpg",
+    "image": "profilepic.webp",
     "bio": "Hi there! I am Aryan! Wrote my first program when I was 13 (a shutdown virus) and since then I've been hacking and creating. I then started learning pentesting (before watching Mr. Robot :) and also did hack into the main computer of my school and into my college website (I am not a certified hacker though, but they have no proof of that so..:). During college, I made various interesting projects (like Stock Price Prediction, Face mask detection, etc.). Simultaneously worked on native projects using React & React-Native (like MRDb - fav & ongoing,COVID tracker,Chathouse v2,etc.) Now I'm learning about Block-chain and soon going to do a project on it. I code/hack for a purpose and fun.",
     "contactmessage": "You can contact me using this form:",
     "email": "aryanp@pm.me",
@@ -28,6 +28,11 @@
         "className": "fab fa-linkedin"
       },
       {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/9617417/aryan",
+        "className": "fab fa-stack-overflow"
+      },
+      {
         "name": "Telegram",
         "url": "https://t.me/aryanxpx/",
         "className": "fab fa-telegram-plane"
@@ -36,11 +41,6 @@
         "name": "Discord",
         "url": "https://discord.gg/5bahqbzv",
         "className": "fab fa-discord"
-      },
-      {
-        "name": "stack-overflow",
-        "url": "https://stackoverflow.com/users/9617417/aryan",
-        "className": "fab fa-stack-overflow"
       },
       {
         "name": "instagram",
@@ -107,7 +107,7 @@
         "level": "50%"
       },
       {
-        "name": "Ethical Hacking | Linux | MacOS | Batch | Bash | Zsh",
+        "name": "Ethical Hacking | Linux | Batch | Bash",
         "level": "70%"
       },
       {

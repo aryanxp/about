@@ -125,31 +125,31 @@
       {
         "title": "COVID Tracker",
         "category": "",
-        "image": "covid.png",
+        "image": "covid.webp",
         "url": "https://aryanxp.github.io/COVID/"
       },
       {
         "title": "Stock Price Prediction",
         "category": "",
-        "image": "spp.png",
+        "image": "spp.webp",
         "url": "https://github.com/aryanxp/Stock-Price-Prediction"
       },
       {
         "title": "MRDb",
         "category": "",
-        "image": "mrdb.jpg",
+        "image": "mrdb.webp",
         "url": "https://mrdb.vercel.app/"
       },
       {
         "title": "Chathouse v2.0",
         "category": "",
-        "image": "chathouse.png ",
+        "image": "chathouse.webp ",
         "url": "https://aryanxp.github.io/CHATHOUSE-v2.0/"
       },
       {
         "title": "Split-Money",
         "category": "",
-        "image": "splitmoney.png ",
+        "image": "splitmoney.webp ",
         "url": "https://github.com/aryanxp/Split-money"
       }
     ]

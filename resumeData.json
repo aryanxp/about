@@ -2,7 +2,7 @@
   "main": {
     "name": "Aryan Pitliya",
     "occupation": "Developer",
-    "description": "I like to code/develop/create/innovate",
+    "description": "Web / AI / Pentesting / Block-chain",
     "image": "profilepic.webp",
     "bio": "Hi there! I wrote my first program when I was 13 (a virus) and my first real world project in 2017 (chatting application using python). After learning pentesting,I did hack into various computers including server of my school and into my college website. In college, I made various projects based on ML & AI, full stack websites and currently learning about block-chain development. I code for purpose and hack for fun.",
     "contactmessage": "You can contact me using this form:",
@@ -10,8 +10,8 @@
     "phone": "https://t.me/aryanxpx",
     "address": {
       "street": "Pune | Indore",
-      "city": "India",
-      "state": "",
+      "city": "Indian",
+      "state": "Madhya Pradesh",
       "zip": "452018"
     },
     "website": "https://aryanxp.github.io/",

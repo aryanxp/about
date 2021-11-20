@@ -131,7 +131,6 @@ const Contact = ({ data }) => {
               <br />
               <span>{phone}</span>
               </p>
-            <a href="https://stackoverflow.com/users/9617417/aryan"><img src="https://stackoverflow.com/users/flair/9617417.png?theme=dark" width="208" height="58" alt="profile for Aryan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aryan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"/></a>
           </div>
         </aside>
       </div>

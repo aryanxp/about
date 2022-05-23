@@ -4,7 +4,7 @@
     "occupation": "Developer",
     "description": "Web / AI / Pentesting / Block-chain",
     "image": "profilepic.webp",
-    "bio": "Hi there! I wrote my first program when I was 13 (a virus) and my first real world project in 2017 (chatting application using python). After learning pentesting,I did hack into various computers including server of my school and into my college website. In college, I made various projects based on ML & AI, full stack websites and currently learning about block-chain development. I code for purpose and hack for fun.",
+    "bio": "Hi, I'm Aryan Pitliya, Full Stack Developer. I've worked on a number of machine learning and Python projects. I currently work remotely as web developer for a select group of freelance clients who are always looking for new projects.",
     "contactmessage": "You can contact me using this form:",
     "email": "aryanp@pm.me",
     "phone": "https://t.me/aryanxpx",
@@ -77,16 +77,10 @@
     ],
     "work": [
       {
-        "company": "MRDb",
-        "title": "Founder",
-        "years": "May 2021 - Present",
-        "description": "Website which provides the latest/trending/category-wise/upcoming movies/shows all at one place which are available on the internet."
-      },
-      {
-        "company": "ChatHouse",
-        "title": "Founder",
-        "years": "2018 ",
-        "description": "Python application which lets you communicate to people connected on a common network (works offline)."
+        "company": "Seminare",
+        "title": "Web Developer",
+        "years": "Jan 2022 - Present",
+        "description": "A cloud based video conferencing platform designed to help students and teachers connect and collaborate. I am working on the frontend and backend of the platform."
       }
     ],
     "skills": [
@@ -95,16 +89,16 @@
         "level": "80%"
       },
       {
-        "name": "JavaScript | ReactJs | Nextjs",
-        "level": "65%"
+        "name": "ReactJs | Nextjs",
+        "level": "75%"
+      },
+      {
+        "name": "HTML | CSS | TailwindCSS",
+        "level": "70%"
       },
       {
         "name": "Machine Learning | Deep Learning",
-        "level": "60%"
-      },
-      {
-        "name": "SQL | AWS | MongoDB",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "Ethical Hacking | Linux | Batch | Bash",
@@ -113,27 +107,11 @@
       {
         "name": "Git",
         "level": "65%"
-      },
-      {
-        "name": "CSS | Tailwind | Sass | HTML | PHP",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "COVID Tracker",
-        "category": "",
-        "image": "covid.webp",
-        "url": "https://aryanxp.github.io/COVID/"
-      },
-      {
-        "title": "Stock Price Prediction",
-        "category": "",
-        "image": "spp.webp",
-        "url": "https://github.com/aryanxp/Stock-Price-Prediction"
-      },
       {
         "title": "MRDb",
         "category": "",
@@ -141,10 +119,22 @@
         "url": "https://mrdb.vercel.app/"
       },
       {
+        "title": "COVID Tracker",
+        "category": "",
+        "image": "covid.webp",
+        "url": "https://aryanxp.github.io/COVID/"
+      },
+      {
         "title": "Chathouse v2.0",
         "category": "",
         "image": "chathouse.webp ",
         "url": "https://aryanxp.github.io/CHATHOUSE-v2.0/"
+      },
+      {
+        "title": "Stock Price Prediction",
+        "category": "",
+        "image": "spp.webp",
+        "url": "https://github.com/aryanxp/Stock-Price-Prediction"
       },
       {
         "title": "Split-Money",

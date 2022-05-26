@@ -3,7 +3,7 @@
     "name": "Aryan Pitliya",
     "occupation": "Developer",
     "description": "Web / AI / Pentesting / Block-chain",
-    "image": "profilepic.webp",
+    "image": "profilepic.avif",
     "bio": "Hi, I'm Aryan Pitliya, Full Stack Developer. I've worked on a number of machine learning and Python projects. I currently work remotely as web developer for a select group of freelance clients who are always looking for new projects.",
     "contactmessage": "You can contact me using this form:",
     "email": "aryanp@pm.me",
@@ -115,31 +115,31 @@
       {
         "title": "MRDb",
         "category": "",
-        "image": "mrdb.webp",
+        "image": "mrdb.avif",
         "url": "https://mrdb.vercel.app/"
       },
       {
         "title": "COVID Tracker",
         "category": "",
-        "image": "covid.webp",
+        "image": "covid.avif",
         "url": "https://aryanxp.github.io/COVID/"
       },
       {
         "title": "Chathouse v2.0",
         "category": "",
-        "image": "chathouse.webp ",
+        "image": "chathouse.avif ",
         "url": "https://aryanxp.github.io/CHATHOUSE-v2.0/"
       },
       {
         "title": "Stock Price Prediction",
         "category": "",
-        "image": "spp.webp",
+        "image": "spp.avif",
         "url": "https://github.com/aryanxp/Stock-Price-Prediction"
       },
       {
         "title": "Split-Money",
         "category": "",
-        "image": "splitmoney.webp ",
+        "image": "splitmoney.avif ",
         "url": "https://github.com/aryanxp/Split-money"
       }
     ]
